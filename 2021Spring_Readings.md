@@ -14,7 +14,7 @@
 ### The Fifth Amendment Privilege cont'd  
 - Asserting the Privilege [CB 859-870]
 - Limitations on the Fifth Amendment Privilege [CB 870-873, 881-882 n. 8 & 9]
-- Interrogation and  the Right to Counsel [CB 883-891]  
+- Interrogation and the Right to Counsel [CB 883-891]  
 
 ## Class 3 - January 27, 2021  
 ### _Miranda_  
@@ -23,7 +23,7 @@
 
 ## Class 4 - February 1, 2021
 ### _Miranda_ cont'd
-- The Scope of Miranda - "Custody" [CB 909-922]
+- The Scope of Miranda - "Custody" [CB 915-922]
 - "Interrogation" [CB 922-935]
 - Invocations [CB 935-943]  
 
