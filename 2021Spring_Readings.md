@@ -25,12 +25,12 @@
 ### _Miranda_ cont'd
 - The Scope of Miranda - "Custody" [CB 915-922]
 - "Interrogation" [CB 922-935]
-- Invocations [CB 935-943]  
+- Warnings [CB 935-937]  
 
 ## Class 5 - February 3, 2021
 ### _Miranda_ cont'd
-- Warnings [CB 933-935]
-- Waivers [CB 943-977]
+- Invocations [CB 937-951]
+- Waivers [CB 951-977]
 
 ## Class 6 - February 8, 2021
 ### _Miranda_ reconsidered?
