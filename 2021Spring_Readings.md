@@ -34,13 +34,13 @@
 
 ## Class 6 - February 10, 2021
 ### _Miranda_ reconsidered?
+- Waivers cont'd
 - Consequences of a Violation [CB 982-1002]
 - Note on _Miranda_'s Practical Effects [CB 977-979]
 - Emily Bazelon, _Why Should I Care That No One's Reading Dzhokar Tsarnaev His Miranda Rights?_ Slate (Apr. 19, 2013)
 
 ## Class 7 - February 15, 2021
 ### The Sixth Amendment Right to Counsel
-- The Constitutional Requirements [107-115]
 - The Right to the Assistance of Counsel Before and After Trial [CB 128-142]
 - The Right to Counsel Reconsidered [CB 1002-1011 & notes 1,2,3,7]
 
