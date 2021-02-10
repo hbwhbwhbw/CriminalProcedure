@@ -41,7 +41,7 @@
 
 ## Class 7 - February 15, 2021
 ### The Sixth Amendment Right to Counsel
-- The Right to the Assistance of Counsel Before and After Trial [CB 128-142]
+- Consequences of a Violation cont'd
 - The Right to Counsel Reconsidered [CB 1002-1011 & notes 1,2,3,7]
 
 ## Class 8 - February 17, 2021
