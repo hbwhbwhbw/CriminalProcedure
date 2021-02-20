@@ -39,83 +39,85 @@
 - Note on _Miranda_'s Practical Effects [CB 977-979]
 - Emily Bazelon, _Why Should I Care That No One's Reading Dzhokar Tsarnaev His Miranda Rights?_ Slate (Apr. 19, 2013)
 
-## Class 7 - February 15, 2021
+## Classes cancelled February 15 and 17 for inclement weather
+
+## Class 7 - February 22, 2021
 ### The Sixth Amendment Right to Counsel
 - Consequences of a Violation cont'd
 - The Right to Counsel Reconsidered [CB 1002-1011 & notes 1,2,3,7]
 
-## Class 8 - February 17, 2021
+## Class 8 - February 24, 2021
 ### The Fourth Amendment
 - Text and History, Remedy and Right [CB 315-318]
 - Remedies: The Exclusionary Rule [CB 318-331]
 - Other Remedies [CB 331-340]
 
-## Class 9 - February 22, 2021
+## Class 9 - March 1, 2021
 ### "Searches"
 - The Meaning of "Searches" [CB 340-365]
 - Privacy Exposed [364-379]
 
-## Class 10 - February 24, 2021
+## Class 10 - March 3, 2021
 ### Privacy and Technology
 - Privacy and Property Redux [CB 379-421]
 
-## Class 11 - March 1, 2021
+## Class 11 - March 8, 2021
 ### Seizures; Warrants
 - The Meaning of "Seizures" [CB 421-434]
 - The Warrant Requirement [CB 434-444]
 
-## Class 12 - March 3, 2021
+## Class 12 - March 10, 2021
 ### Probable Cause
 - The Probable Cause Standard [CB 449-467]
 
-## Class 13 - March 8, 2021
+## Class 13 - March 22, 2021
 ### Warrantless Searches and Seizures
 - Exigent Circumstances [CB 468-491]
 
-## Class 14 - March 10, 2021
+## Class 14 - March 24, 2021
 ### Warrantless Searches and Seizures cont'd
 - Plain View [CB 491-497]
 - Automobiles [CB 497-516]
 
-## Class 15 - March 22, 2021
+## Class 15 - March 29, 2021
 ### Warrantless Searches and Seizures cont'd
 - Arrests [CB 517-526]
 - Consent searches [CB 526-544]
 
-## Class 16 - March 24, 2021
+## Class 16 - March 31, 2021
 - Reasonableness [CB 544-550]
 - Stop & Frisk [550-571]
 
-## Class 17 - March 29, 2021
+## Class 17 - April 5, 2021
 - Stop & Frisk, cont'd [CB 571-585]
 - Profiling and discretion [CB 585-600]
 
-## Class 18 - March 31, 2021
+## Class 18 - April 7, 2021
 - Profiling and discretion cont'd [CB 600-625]
 
-## Class 19 - April 5, 2021
+## Class 19 - April 12, 2021
 - Searches incident to arrest [CB 627-646]
 
-## Class 20 - April 7, 2021
+## Class 20 - April 14, 2021
 ### Digital Surveillance Revisited
 - Searches incident to arrest [CB 646-665]
 - Jack Nicas, [_The Police Can Probably Break Into Your Phone_](https://www.nytimes.com/2020/10/21/technology/iphone-encryption-police.html), N.Y. Times (2020)
 
-## Class 21 - April 12, 2021
+## Class 21 - April 19, 2021
 - Checkpoints [CB 663-677]
 - Special needs [CB 677-703]
 
-## Class 22 - April 14, 2021
+## Class 22 - MAKEUP
 ### Use of Force
 - Reasonableness and Police Use of Force [CB 704-715]
 - Warrant Execution [CB 443-449]
 
-## Class 23 - April 19, 2021
+## Class 23 - MAKEUP
 ### Exceptions to the Exclusionary Rule
 - Good Faith [CB 716-736]
 - Standing [CB 736-746]
 
-## Class 24 - April 20, 2021 (Time TBD)
+## Class 24 - MAKEUP
 ### Exceptions to the Exclusionary Rule cont'd
 - Fruit of the Poisonous Tree [CB 746-768]
 - Impeachment [CB 768-773]
