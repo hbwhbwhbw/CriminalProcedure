@@ -59,7 +59,7 @@
 
 ## Class 10 - March 3, 2021
 ### Privacy and Technology
-- Privacy and Property Redux [CB 379-421]
+- Privacy and Property Redux [CB 379-418]
 
 ## Class 11 - March 8, 2021
 ### Seizures; Warrants
